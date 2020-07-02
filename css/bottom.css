@@ -1,0 +1,39 @@
+#footer {
+	vertical-align: middle;
+    width:100%;
+	height: 300px;
+	padding-top: 10px;
+	color: #FFF;
+	background-color: #00000050;
+    bottom:auto;
+}
+
+#footer > div{
+    float: left;
+    width: 400px;
+    height: 300px;
+    left: 0;
+    margin-left: 100px;
+}
+
+/* 原来的样式 */
+/* #footer {
+	text-align: center;
+	vertical-align: middle;
+    width: 100%;
+	height: 100px;
+	padding-top: 50px;
+	color: #FFF;
+	background-color: #333;
+    position: fixed;
+    bottom: 0;
+}
+
+#footer > p{
+    float: left;
+    margin-left:100px;
+}
+#footer > p a:hover{
+    background-color:rgba(255, 123, 0, 0.884);
+    columns: #fff;;
+} */
